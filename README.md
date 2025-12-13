@@ -2,15 +2,28 @@
 
 ###
 
-<p align="left"><!--💻 --> Full Stack Developer passionate about sharing my journey and learnings in tech <!-- <br>🎥 Creating and sharing content about programming, web development, and productivity <br>🌱 learninginpublic while building personal projects and exploring new tech <br>📊 Currently focusing on AI, Machine Learning, and AI Engineering --></p>
+<h2 align="left"><!--💻 --> I LOVE ROBOTICS!!!<!-- <br>🎥 Creating and sharing content about programming, web development, and productivity <br>🌱 learninginpublic while building personal projects and exploring new tech <br>📊 Currently focusing on AI, Machine Learning, and AI Engineering --></h2>
 
 ###
 
 <!-- Git Status -->
 
+<br clear="both">
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irgiadit7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irgiadit7&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=50&theme=radical&hide_border=false&order=2" height="180" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irgiadit7&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
+
+###
+
+###
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irgiadit7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irgiadit7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irgiadit7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 
 <!-- ![irgiadit7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irgiadit7&theme=dracula&hide_border=false) -->
 
