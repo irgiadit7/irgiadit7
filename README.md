@@ -35,7 +35,7 @@
 
 ###
 
-<img align="right" height="250" src="https://files.catbox.moe/ifv0rd.png"  />
+<!-- <img align="right" height="250" src="https://files.catbox.moe/ifv0rd.png"  /> -->
 
 ###
 
