@@ -1,95 +1,22 @@
-<h1 align="left">👋 Hi, I'm Irgi!</h1>
-
-###
-
-<h2 align="left"><!--💻 --> I LOVE ROBOTICS!!!<!-- <br>🎥 Creating and sharing content about programming, web development, and productivity <br>🌱 learninginpublic while building personal projects and exploring new tech <br>📊 Currently focusing on AI, Machine Learning, and AI Engineering --></h2>
-
-###
-
-<!-- Git Status -->
-
-<br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irgiadit7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irgiadit7&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=50&theme=radical&hide_border=false&order=2" height="180" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irgiadit7&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
 </div>
 
 ###
 
-###
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irgiadit7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irgiadit7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
-
-<!-- ![irgiadit7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irgiadit7&theme=dracula&hide_border=false) -->
-
-  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irgiadit7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
-</div> 
-
-
-
-
-###
-
-<!-- <img align="right" height="250" src="https://files.catbox.moe/ifv0rd.png"  /> -->
-
-###
-
-<p align="left">💻 Tech Stack</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" /> <br>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=irgiadit7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<p align="left">🌐 Connect with Me</p>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/irgi-adit-pratama/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <a href="https://www.instagram.com/_iaprtma/#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:codewithgiii@gmail.com?subject=Halo%20CodeWithGiii" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
 
 ###
 
@@ -101,11 +28,17 @@
 
 ###
 
+<div align="left">
+</div>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=irgiadit7.irgiadit7&"  />
 </div>
 
 ###
 
+<p align="center">Creative process gives me the most freedom because I can do anything I want on a piece of blank media</p>
 
-<!-- Credit : https://github.com/maurodesouza/profile-readme-generator -->
+###
