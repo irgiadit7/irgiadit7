@@ -39,6 +39,6 @@
 
 ###
 
-<p align="center">Creative process gives me the most freedom because I can do anything I want on a piece of blank media</p>
+<!--  <p align="center">Creative process gives me the most freedom because I can do anything I want on a piece of blank media</p> -->
 
 ###
